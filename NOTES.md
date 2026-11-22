@@ -127,6 +127,18 @@ everywhere). Verified by diffing the outputs of two runs.
 
 ## Status
 
-NOT submitted yet. Built 22 Nov 2026; bundle + kit check + submit are the
-parent's steps. Entries close 14 Dec 2026 10:00 UTC; results ~28 Dec 2026.
-v4 (submission 01a1fd15) remains the standing entry until v5 is submitted.
+SUBMITTED 22 Nov 2026 ~16:54 WIB on Joni's "Setuju": submission
+01a202ad-dc10-7551-8951-22c4ee2cd0af, title "Launch Ledger v5: pre-token
+radar ranked by expected launch value — fitted curve, token odds held out
+twice, compare + CSV + pins, 758/758 accounted", commit
+d96578873f92547fcd4f29830987b7e65588430e, payout wallet
+h7aEYozd3ouRt11uqdJC8cQ42hHRckuFotiEvuJbuhE. Stage: checked — passed its
+checks. Bundle radar-v5-bundle.tar.gz (1,217,473 bytes, sha256
+24890b66…); kit check ok=true, failed=[] (14 pass, 8 skip, 3 deferred to
+server — repo_owner, source_bundle, duplicate_snapshot — each verified
+independently before submit). Quota at submit: entries_made 3, day cap 5
+left, 50/day left 50, hard_limit left 37, can_submit true. Claim code
+stored ONLY in ~/.config/makefun/token-radar-01-v5-submission.json (0600).
+v5 is now the standing entry (last submit wins), superseding v4
+(01a1fd15, 92.15% provisional). Entries close 14 Dec 2026 10:00 UTC;
+results ~28 Dec 2026.
